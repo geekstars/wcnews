@@ -1,0 +1,32 @@
+{
+    "meta": {
+      "status": 200,
+      "msg": "OK"
+    },
+    "response": {
+      "ios": {
+        "app": {
+          "version": "1.0",
+          "message": "",
+          "must_update": false,
+          "is_show_update": false,
+          "update_url": ""        
+        },
+        "config": {
+            "is_show_highlight": false
+        }
+      },
+      "android": {
+        "app": {
+          "version": "1.0",
+          "message": "",
+          "must_update": false,
+          "is_show_update": false,
+          "update_url": ""
+        },
+        "config": {
+            "is_show_highlight": false
+        }
+      }
+    }
+  }
